@@ -1,3 +1,6 @@
+dodawanie
 git add (nazwa katalogu/pliku)
 git commit -a -m "changelog"
 git push
+
+logowanie do visuala
