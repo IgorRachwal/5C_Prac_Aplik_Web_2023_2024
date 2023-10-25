@@ -1,8 +1,10 @@
 dodawanie
+
 git add .
 git commit -m "changelog"
 git push
 
 logowanie do visuala
+
 git config --global user.name "IgorRachwal"
 git config --global user.email "igorrachwal@gmail.com"
